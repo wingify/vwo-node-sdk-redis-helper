@@ -1,0 +1,32 @@
+{
+  "name": "vwo-node-sdk-redis-helper",
+  "version": "0.1.0",
+  "description": "VWO Node SDK Redis Helper to use Redis as a UserStorage Service in VWO Node SDK",
+  "scripts": {
+    "prettier": "prettier --write --ignore-unknown *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev@wingify.com",
+  "license": "Apache-2.0",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wingify/vwo-node-sdk-redis-helper"
+  },
+  "files": [
+    "package.json",
+    "yarn.lock",
+    "*.js",
+    "LICENSE",
+    "README.md",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "NOTICE"
+  ],
+  "dependencies": {
+    "redis": "^4.6.12"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
