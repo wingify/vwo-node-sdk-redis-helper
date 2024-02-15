@@ -1,6 +1,6 @@
 {
   "name": "vwo-node-sdk-redis-helper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "VWO Node SDK Redis Helper to use Redis as a UserStorage Service in VWO Node SDK",
   "scripts": {
     "prettier": "prettier --write --ignore-unknown *.js",
